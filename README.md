@@ -14,6 +14,7 @@ My thesis explores how incorporating diverse populations can improve protein pre
 
 ### Thesis Project
 * **[Enhancing Protein Prediction Modeling](https://github.com/MattFischer01/Enhancing-Protein-Prediction-Modeling)**
+* At this time, most of my code is off github, but I will soon be curating it and adding it to github for publication. 
 
 ### Let's Connect! 
 www.linkedin.com/in/matthew-fischer01
