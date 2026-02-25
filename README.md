@@ -1,6 +1,8 @@
 ## Welcome! 
 My name is **Matt Fischer**. I am interested in exploring how bioinformatics tools can expand our understanding of biological mechanisms. Currently, I am a Master's student at Loyola University Chicago. 
 
+At this time, most of my code is on a lab server, but I will soon be curating it and adding it to github for publication. 
+
 ### Research Focus
 My thesis explores how incorporating diverse populations can improve protein prediction modeling, allowing improved discovery in Proteome Wide Association Studies (PWAS) across ancestries. Through this work, I am incorporating various machine learning models that model the associations between whole genome sequencing and proteomic data, thereby, understanding which genomic variants alter protein levels given a disease phenotype. 
 
@@ -14,7 +16,6 @@ My thesis explores how incorporating diverse populations can improve protein pre
 
 ### Thesis Project
 * **[Enhancing Protein Prediction Modeling](https://github.com/MattFischer01/Enhancing-Protein-Prediction-Modeling)**
-* At this time, most of my code is off github, but I will soon be curating it and adding it to github for publication. 
 
 ### Let's Connect! 
 www.linkedin.com/in/matthew-fischer01
