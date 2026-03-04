@@ -4,7 +4,7 @@ Hi, I’m Matt Fischer, a Bioinformatics Master’s student at Loyola University
 At this time, most of my code is on a lab server, but I will soon be curating it and adding it to github for publication. 
 
 ### Research Focus
-My thesis explores how incorporating diverse populations can improve protein prediction modeling, allowing improved discovery in Proteome Wide Association Studies (PWAS) across ancestries. Through this work, I have established data engineering and machine learning pipelines to benchmarking various machine learning models (Elastic Net, Multivariate Adaptive Shrinkage, and Ultimate Deconvolution) that model the associations between whole genome sequencing and proteomic data, thereby, understanding which genomic variants alter protein levels given a disease phenotype. 
+My research explores how incorporating diverse populations can improve protein prediction modeling, allowing improved discovery in Proteome Wide Association Studies (PWAS) across ancestries. Through this work, I have established data engineering and machine learning pipelines to benchmarking various machine learning models (Elastic Net, Multivariate Adaptive Shrinkage, and Ultimate Deconvolution) that model the associations between whole genome sequencing and proteomic data, thereby, understanding which genomic variants alter protein levels given a disease phenotype. 
 
 ### Skills
 - *Data tools*: R, Python, SQL, Unix, Git, Excel, Cloud Computing (UKB-RAP on AWS, All of Us Workbench), Plink and other genetic analysis tools, QuPath (IF-image analysis), CellxGene (scRNA-seq Analysis)
